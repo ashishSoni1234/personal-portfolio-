@@ -5,7 +5,7 @@ export const projects = [
     description: "Multi-agent AI platform automating KYC/AML compliance and workflows using LangGraph, ChromaDB RAG, and LLaMA 3.3 70B inference.",
     image: "https://images.unsplash.com/photo-1677442136019-21780ecad995?q=80&w=800&auto=format&fit=crop",
     tags: ["Python", "FastAPI", "LangGraph", "LLaMA 3.3", "ChromaDB"],
-    liveUrl: "https://web-production-9a02d.up.railway.app/",
+    liveUrl: "https://web-production-a1d8a.up.railway.app/",
     githubUrl: "https://github.com/ashishSoni1234/omniforce-ai-workforce"
   },
   {
